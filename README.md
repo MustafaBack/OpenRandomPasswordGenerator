@@ -5,10 +5,10 @@ Open Random Password Generator is a simple and open source random password gener
 
 Key Features:
 
-Customizable password length
-Support for various character sets (uppercase, lowercase, numbers, symbols)
-Open source and free to use
-Simple and user-friendly interface
+Customizable password length,
+Support for various character sets (uppercase, lowercase, numbers, symbols),
+Open source and free to use,
+Modern and user-friendly interface.
 
 # Turkish
 Open Random Password Generator, kullanıcıların çevrimiçi güvenliklerini artırmak için güçlü, rastgele parolalar oluşturmalarına yardımcı olan basit ve açık kaynaklı bir rastgele parola oluşturma aracıdır. Özelleştirilebilir uzunluklara ve karakter setlerine sahip parolalar oluşturmanıza olanak tanıyarak yönettiğiniz her hesap için benzersiz ve güvenli parolalar oluşturabilmenizi sağlar. Kullanımı kolay, hafif ve güvenli olacak şekilde tasarlanan jeneratör, parola güvenliğini artırmak isteyen herkes için etkili bir çözüm sunuyor.
@@ -18,4 +18,4 @@ Temel Özellikler:
 Özelleştirilebilir şifre uzunluğu,
 Çeşitli karakter setleri için destek (büyük harf, küçük harf, sayılar, semboller),
 Açık kaynaklı ve kullanımı ücretsiz,
-Basit ve kullanıcı dostu arayüz.
+Modern ve kullanıcı dostu arayüz.
