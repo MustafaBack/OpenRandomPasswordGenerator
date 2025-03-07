@@ -15,7 +15,7 @@ Open Random Password Generator, kullanıcıların çevrimiçi güvenliklerini ar
 
 Temel Özellikler:
 
-Özelleştirilebilir şifre uzunluğu
-Çeşitli karakter setleri için destek (büyük harf, küçük harf, sayılar, semboller)
-Açık kaynaklı ve kullanımı ücretsiz
-Basit ve kullanıcı dostu arayüz
+Özelleştirilebilir şifre uzunluğu,
+Çeşitli karakter setleri için destek (büyük harf, küçük harf, sayılar, semboller),
+Açık kaynaklı ve kullanımı ücretsiz,
+Basit ve kullanıcı dostu arayüz.
